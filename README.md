@@ -16,4 +16,6 @@ This project features a responsive navigation bar built with HTML, CSS, and Font
 - Font Awesome (for icons)
 - JavaScript (for interactivity, included in `script.js`)
 
+!(https://github.com/Machahary07/Responsive-Navigation-Bar/blob/main/nature_bg.jpg)
+
 ## OPEN-SOURCE FEEL FREE TO USE
