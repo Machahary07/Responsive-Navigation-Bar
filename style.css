@@ -7,7 +7,7 @@
 
 body{
     height: 100vh;
-    background-image: url(/nature_bg.jpg);
+    background-image: url('nature_bg.jpg');
     background-size: cover;
     background-position: center;
 }
